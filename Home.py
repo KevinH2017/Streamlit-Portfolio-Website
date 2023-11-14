@@ -6,7 +6,7 @@ col_1, col_2 = st.columns(2)
 st.header("My Python Projects")
 
 with col_1:
-    st.image("pic1.png", width=400)
+    st.image("/pic1.png", width=400)
 with col_2:
     st.title("Kevin Hui")
     content = """
@@ -35,12 +35,12 @@ with col_3:
     for index, row in df[:10].iterrows():
         st.header(row["title"])
         st.write(row["description"])
-        st.image(row["image"])
+        st.image("/" + row["image"])
         st.write(f"[Source Code]({row['url']})")        # Change url in data_2.csv to github links
 
 with col_4:
     for index, row in df[10:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
-        st.image(row["image"])
+        st.image("/" + row["image"])
         st.write(f"[Source Code]({row['url']})")        # Change url in data_2.csv to github links
