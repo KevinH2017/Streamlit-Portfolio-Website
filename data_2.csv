@@ -1,0 +1,21 @@
+title,description,url,image
+Todo App,A distraction-free web app to help you focus on creating and completing tasks.,https://github.com/KevinH2017/To-Do-Tracker-Application,1.png
+Portfolio Website,A website built entirely in Python to showcase coding projects and apps.,https://github.com/KevinH2017/Portfolio-Webpage,2.png
+PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines.,https://github.com/KevinH2017/PDF-Maker,3.png
+PDF Invoices,A script that reads invoice records from Excel files and automatically generates PDF invoices.,https://github.com/KevinH2017/Excel-to-PDF-Maker,4.png
+Positive News Site,A website that gets data from a news API and uses sentiment analysis to publish only positive news.,https://github.com/KevinH2017/News-API-and-Email-App,5.png
+Weather API,A REST API built with Python and Flask to serve historical weather data for various cities.,https://github.com/KevinH2017/Historical-Weather-Data-API-App,6.png
+Natural Language Processor,A script that takes strings and determines if it is positive or negative in tone.,https://github.com/KevinH2017/Natural-Language-Processor,7.png
+Tour Scraper,A program that checks a music band's website and sends an email when there are new tours.,https://github.com/KevinH2017/Web-Scraping-Test,8.png
+War Game, A Python app that has the user play War Game with the computer,https://github.com/KevinH2017/War-Game,9.png
+Hotel Booking App,A program that allows users to book a hotel stay.,https://github.com/KevinH2017/Hotel-Booking-App,10.png
+Webcam Motion Detector,A program that monitors the computer webcam and sends an email when a new object enters the view.,https://github.com/KevinH2017/Intruder-Detection-Alert-App,11.png
+Python Flask Job Application Webpage,A Python Flask app for users to simulate a job application webpage.,https://github.com/KevinH2017/Python-Flask-Job-Application-Webpage,12.png
+Python Django Job Application Website,A Python Django app for users to simulate a job application website.,https://github.com/KevinH2017/Python-Django-Job-Application-App,13.png
+Zip Extractor and Zipper,A program that allows a user to extract and zip files with a simple GUI,https://github.com/KevinH2017/Zip-Extractor-and-Zipper,14.png
+Feet and Inches to Meters Converter,A program that converts feets and inches into meters.,https://github.com/KevinH2017/FeetInches-to-Meters-Converter,15.png
+Python Blackjack,A Python program that has the user play Blackjack against the computer.,https://github.com/KevinH2017/Blackjack,16.png
+Student Management System,A desktop PyQt6 GUI app for managing university student data with an SQL database backend.,https://github.com/KevinH2017/SQLite-Student-Management-System,17.png
+School Management System,A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.,https://github.com/KevinH2017/MySQL-Student-Management-Database-App,18.png
+Restaurant Menu Web App,A Django web app to let customers see a restaurant menu and meal availability.,https://pythonhow.com,19.png
+Online Store,A Django online store app where users can place orders and sellers can manage them.,https://pythonhow.com,20.png
