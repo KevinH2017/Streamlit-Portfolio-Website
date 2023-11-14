@@ -6,7 +6,7 @@ col_1, col_2 = st.columns(2)
 st.header("My Python Projects")
 
 with col_1:
-    st.image("/pic1.png", width=400)
+    st.image("https://github.com/KevinH2017/Streamlit-Portfolio-Website/blob/main/pic1.PNG", width=400)
 with col_2:
     st.title("Kevin Hui")
     content = """
