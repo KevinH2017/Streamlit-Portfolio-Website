@@ -17,4 +17,5 @@ Feet and Inches to Meters Converter,A program that converts feets and inches int
 Python Blackjack,A Python program that has the user play Blackjack against the computer.,https://github.com/KevinH2017/Blackjack,16.png
 Student Management System,A desktop PyQt6 GUI app for managing university student data with an SQL database backend.,https://github.com/KevinH2017/SQLite-Student-Management-System,17.png
 School Management System,A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.,https://github.com/KevinH2017/MySQL-Student-Management-Database-App,18.png
-
+Restaurant Menu Web App,A Django web app to let customers see a restaurant menu and meal availability.,https://github.com/KevinH2017/Restaurant-Web-App-With-Django,19.png
+My First Python Package,My first Python package that allows users to convert excel files to PDF files.,https://test.pypi.org/project/invoicing-excel-to-pdf-kev/,20.png
